@@ -2,6 +2,10 @@ package com.teachmeskills.lesson05;
 
 import java.util.Arrays;
 
+/**
+ * Создайте двумерный массив целых чисел. Отсортируйте элементы в
+ * 	строках двумерного массива по возрастанию.
+ */
 public class Task5 {
 
     public static void main(String[] args) {

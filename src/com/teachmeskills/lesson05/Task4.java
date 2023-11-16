@@ -1,5 +1,8 @@
 package com.teachmeskills.lesson05;
 
+/**
+ * Создайте двумерный массив. Выведите на консоль диагонали массива.
+ */
 public class Task4 {
     public static void main(String[] args) {
 

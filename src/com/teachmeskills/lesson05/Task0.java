@@ -3,6 +3,12 @@ package com.teachmeskills.lesson05;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+Создать трехмерный массив из целых чисел.
+	С помощью циклов "пройти" по всему массиву и увеличить каждый
+	элемент на заданное число. Пусть число, на которое будет
+	увеличиваться каждый элемент, задается из консоли.
+ */
 public class Task0 {
     public static void main(String[] args) {
         int[][][] array = new int[3][3][3];

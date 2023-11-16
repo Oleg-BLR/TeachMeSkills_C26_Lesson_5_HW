@@ -1,5 +1,9 @@
 package com.teachmeskills.lesson05;
 
+/**
+ * Создайте двумерный массив целых чисел. Выведите на консоль сумму
+ * 	всех элементов массива.
+ */
 public class Task3 {
     public static void main(String[] args) {
         //create two-dimention array
