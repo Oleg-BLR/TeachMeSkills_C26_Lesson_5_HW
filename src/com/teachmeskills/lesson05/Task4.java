@@ -24,5 +24,16 @@ public class Task4 {
                 }
             }
         }
+        System.out.println();
+
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array[i].length; j++) {
+                if (i == array.length -1 - j) {
+                    System.out.print(array[i][j] + " ");
+                }
+            }
+        }
+
     }
+
 }
